@@ -1,0 +1,1 @@
+yt-dlp -j --flat-playlist https://www.youtube.com/@MarcoBatalha | jq -r '[.title,.url,.view_count] | @csv' > marco_batalha.csv

@@ -1,0 +1,5 @@
+data/
+audio/
+video/
+venv/
+__pycache__/
